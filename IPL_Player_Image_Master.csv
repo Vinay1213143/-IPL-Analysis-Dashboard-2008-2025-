@@ -1,0 +1,773 @@
+﻿Player_ID,Player_Name,Player_Full_Name,Image_URL,Image_URL_Type
+1,CH Gayle,Christopher Henry Gayle,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Chris%20Gayle.png,Direct Image URL
+2,Mandeep Singh,Mandeep Singh,,Missing
+3,TM Head,Travis Michael Head,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Travis%20Head.png,Direct Image URL
+4,KM Jadhav,Kedar Mahadav Jadhav,,Missing
+5,SR Watson,Shane Robert Watson,,Missing
+6,Sachin Baby,Sachin Baby,https://www.espncricinfo.com/cricketers/sachin-baby-432783,Profile/Page URL
+7,STR Binny,Stuart Terence Roger Binny,,Missing
+8,S Aravind,Sreenath Aravind,,Missing
+9,TS Mills,Tymal Solomon Mills,,Missing
+10,YS Chahal,Yuzvendra Singh Chahal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yuzvendra%20Chahal.png,Direct Image URL
+11,A Choudhary,Aniket Vinod Choudhary,,Missing
+12,DA Warner,David Andrew Warner,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/David%20Warner.png,Direct Image URL
+13,S Dhawan,Shikhar Dhawan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shikhar%20Dhawan.png,Direct Image URL
+14,MC Henriques,Moises Constantino Henriques,,Missing
+15,Yuvraj Singh,Yuvraj Singh,,Missing
+16,DJ Hooda,Deepak Jagbir Hooda,,Missing
+17,BCJ Cutting,Benjamin Colin James Cutting,,Missing
+18,NV Ojha,Naman Vinaykumar Ojha,,Missing
+19,Bipul Sharma,Bipul Sharma,,Missing
+20,B Kumar,Bhuvneshwar Kumar Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Bhuvneshwar%20Kumar.png,Direct Image URL
+21,A Nehra,Ashish Nehra,,Missing
+22,Rashid Khan,Rashid Khan Arman,https://www.espncricinfo.com/cricketers/rashid-khan-793463,Profile/Page URL
+23,PA Patel,Parthiv Ajay Patel,,Missing
+24,JC Buttler,Joseph Charles Buttler,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jos%20Buttler.png,Direct Image URL
+25,RG Sharma,Rohit Gurunath Sharma,,Missing
+26,N Rana,Nitish Rana,https://www.espncricinfo.com/cricketers/nitish-rana-604527,Profile/Page URL
+27,AT Rayudu,Ambati Thirupathi Rayudu,,Missing
+28,KH Pandya,Krunal Himanshu Pandya,,Missing
+29,KA Pollard,Kieron Adrian Pollard,,Missing
+30,HH Pandya,Hardik Himanshu Pandya,,Missing
+31,TG Southee,Timothy Grant Southee,,Missing
+32,MJ McClenaghan,Mitchell John McClenaghan,,Missing
+33,JJ Bumrah,Jasprit Jasbirsingh Bumrah,,Missing
+34,AM Rahane,Ajinkya Madhukar Rahane,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ajinkya%20Rahane.png,Direct Image URL
+35,MA Agarwal,Mayank Anurag Agarwal,,Missing
+36,SPD Smith,Steven Peter Devereux Smith,,Missing
+37,BA Stokes,Benjamin Andrew Stokes,,Missing
+38,MS Dhoni,Mahendra Singh Dhoni,,Missing
+39,MK Tiwary,Manoj Kumar Tiwary,,Missing
+40,R Bhatia,Rajat Bhatia,,Missing
+41,DL Chahar,Deepak Lokandersingh Chahar,,Missing
+42,A Zampa,Adam Zampa,https://www.espncricinfo.com/cricketers/adam-zampa-379504,Profile/Page URL
+43,AB Dinda,Ashok Bhimchandra Dinda,,Missing
+44,Imran Tahir,Mohammad Imran Tahir,,Missing
+45,JJ Roy,Jason Jonathan Roy,,Missing
+46,BB McCullum,Brendon Barrie McCullum,,Missing
+47,SK Raina,Suresh Kumar Raina,,Missing
+48,AJ Finch,Aaron James Finch,,Missing
+49,KD Karthik,Krishnakumar Dinesh Karthik,,Missing
+50,DR Smith,Dwayne Romel Smith,,Missing
+51,MS Gony,Manpreet Singh Gony,,Missing
+52,P Kumar,Praveenkumar Sakat Singh,,Missing
+53,SB Jakati,Shadab Bashir Jakati,,Missing
+54,DS Kulkarni,Dhawal Sunil Kulkarni,,Missing
+55,S Kaushik,Shivil Kaushik,,Missing
+56,G Gambhir,Gautam Gambhir,https://documents.iplt20.com/playerheadshot/ipl/284/84.png,Direct Image URL
+57,CA Lynn,Christopher Austin Lynn,,Missing
+58,RV Uthappa,Robin Venu Uthappa,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Robin%20Uthappa.png,Direct Image URL
+59,MK Pandey,Manish Krishnanand Pandey,,Missing
+60,YK Pathan,Yusuf Khan Pathan,,Missing
+61,SA Yadav,Suryakumar Ashok Yadav,,Missing
+62,CR Woakes,Christopher Roger Woakes,,Missing
+63,PP Chawla,Piyush Pramod Chawla,,Missing
+64,Kuldeep Yadav,Kuldeep Yadav,https://www.espncricinfo.com/cricketers/kuldeep-yadav-559235,Profile/Page URL
+65,SP Narine,Sunil Philip Narine,,Missing
+66,TA Boult,Trent Alexander Boult,,Missing
+67,HM Amla,Hashim Mahomed Amla,,Missing
+68,M Vohra,Manan Vohra,,Missing
+69,WP Saha,Wriddhiman Prasanta Saha,,Missing
+70,AR Patel,Axar Rajeshbhai Patel,,Missing
+71,GJ Maxwell,Glenn James Maxwell,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Glenn%20Maxwell.png,Direct Image URL
+72,DA Miller,David Andrew Miller,,Missing
+73,MP Stoinis,Marcus Peter Stoinis,,Missing
+74,Swapnil Singh,Swapnil Singh,https://www.espncricinfo.com/cricketers/swapnil-singh-232292,Profile/Page URL
+75,MM Sharma,Mohit Mahipal Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohit%20Sharma.png,Direct Image URL
+76,Sandeep Sharma,Sandeep Sharma,https://www.espncricinfo.com/cricketers/sandeep-sharma-438362,Profile/Page URL
+77,T Natarajan,Thangarasu Natarajan,,Missing
+161,DT Christian,Daniel Trevor Christian,,Missing
+163,RD Chahar,Rahul Desraj Chahar,,Missing
+171,Vishnu Vinod,Vishnu Vinod,https://www.espncricinfo.com/cricketers/vishnu-vinod-732293,Profile/Page URL
+172,P Negi,Pawan Negi,,Missing
+173,Iqbal Abdulla,Sayed Iqbal Abdulla,,Missing
+176,B Stanlake,Billy James Stanlake,,Missing
+177,AP Tare,Aditya Prakash Tare,,Missing
+178,SW Billings,Samuel William Billings,,Missing
+179,KK Nair,Karun Nair,https://www.espncricinfo.com/cricketers/karun-nair-398439,Profile/Page URL
+180,SV Samson,Sanju Viswanath Samson,,Missing
+181,RR Pant,Rishabh Rajendra Pant,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rishabh%20Pant.png,Direct Image URL
+182,CH Morris,Christopher Henry Morris,,Missing
+183,CR Brathwaite,Carlos Ricardo Brathwaite,,Missing
+184,PJ Cummins,Patrick James Cummins,,Missing
+185,A Mishra,Amit Mishra,,Missing
+186,S Nadeem,Shahbaz Nadeem,,Missing
+187,Z Khan,Zaheer Khan,,Missing
+196,Basil Thampi,Basil Thampi,,Missing
+197,Tejas Baroka,Tejas Baroka,,Missing
+219,AS Rajpoot,Ankit Singh Rajpoot,,Missing
+228,Harbhajan Singh,Harbhajan Singh,,Missing
+230,SL Malinga,Separamadu Lasith Malinga,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Lasith%20Malinga.png,Direct Image URL
+241,VR Aaron,Varun Raymond Aaron,,Missing
+245,AB de Villiers,Abraham Benjamin de Villiers,,Missing
+258,CJ Anderson,Corey James Anderson,,Missing
+267,F du Plessis,Francois du Plessis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Faf%20Du%20Plessis.png,Direct Image URL
+268,RA Tripathi,Rahul Ajay Tripathi,,Missing
+293,V Shankar,Vijay Shankar,https://www.espncricinfo.com/cricketers/vijay-shankar-477021,Profile/Page URL
+297,Mustafizur Rahman,Mustafizur Rahman,,Missing
+308,I Sharma,Ishant Sharma,https://www.espncricinfo.com/cricketers/ishant-sharma-236779,Profile/Page URL
+316,C de Grandhomme,Colin de Grandhomme,,Missing
+318,UT Yadav,Umeshkumar Tilak Yadav,,Missing
+332,V Kohli,Virat Kohli,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Virat%20Kohli.png,Direct Image URL
+341,S Badree,Samuel Badree,,Missing
+347,Ishan Kishan,Ishan Pranav Kumar Pandey Kishan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ishan%20Kishan.png,Direct Image URL
+348,RA Jadeja,Ravindrasinh Anirudhsinh Jadeja,,Missing
+351,AJ Tye,Andrew James Tye,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andrew%20Tye.png,Direct Image URL
+359,Ankit Sharma,Ankit Nagendra Sharma,,Missing
+360,SN Thakur,Shardul Narendra Thakur,,Missing
+361,LH Ferguson,Lachlan Hammond Ferguson,,Missing
+389,SS Iyer,Shreyas Santosh Iyer,,Missing
+400,EJG Morgan,Eoin Joseph Gerard Morgan,,Missing
+405,KC Cariappa,Konganda Charamanna Cariappa,,Missing
+418,MM Patel,Munaf Musa Patel,,Missing
+438,JD Unadkat,Jaydev Dipakbhai Unadkat,,Missing
+448,AF Milne,Adam Fraser Milne,,Missing
+457,AD Mathews,Angelo Davis Mathews,,Missing
+460,Mohammed Shami,Mohammed Shami Ahmed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Shami.png,Direct Image URL
+471,NM Coulter-Nile,Nathan Mitchell Coulter-Nile,,Missing
+491,Mohammad Nabi,Mohammad Nabi,,Missing
+494,BB Sran,Barinder Balbirsingh Sran,,Missing
+495,S Kaul,Siddarth Kaul,,Missing
+525,J Yadav,Jayant Yadav,https://www.espncricinfo.com/cricketers/jayant-yadav-447587,Profile/Page URL
+531,KS Williamson,Kane Stuart Williamson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kane%20Williamson.png,Direct Image URL
+538,Mohammed Siraj,Mohammed Siraj,https://www.espncricinfo.com/cricketers/mohammed-siraj-940973,Profile/Page URL
+541,SE Marsh,Shaun Edward Marsh,https://cricclubs.com/documentsRep/profilePics/6c5d3a99-b18a-47b6-ba2e-5dae071b3452.png,Direct Image URL
+546,Gurkeerat Singh,Gurkeerat Rupinder Singh,,Missing
+569,JP Faulkner,James Peter Faulkner,,Missing
+579,Shakib Al Hasan,Shakib Al Hasan,,Missing
+590,K Rabada,Kagiso Rabada,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kagiso%20Rabada.png,Direct Image URL
+604,MG Johnson,Mitchell Guy Johnson,,Missing
+613,Washington Sundar,Washington Sundar,https://www.espncricinfo.com/cricketers/washington-sundar-719715,Profile/Page URL
+634,AD Nath,Akshdeep Deependra Nath,,Missing
+637,SS Agarwal,Shubham Sanjay Agarwal,,Missing
+638,NB Singh,Nathu Bharat Singh,,Missing
+676,KV Sharma,Karn Vinod Sharma,,Missing
+697,DM Bravo,Darren Michael Bravo,,Missing
+726,Ankit Soni,Ankit Soni,,Missing
+744,AR Bawne,Ankit Ramdas Bawne,,Missing
+753,SP Jackson,Sheldon Philip Jackson,,Missing
+760,MJ Guptill,Martin James Guptill,,Missing
+767,Anureet Singh,Kathuria Anureet Singh,,Missing
+811,IK Pathan,Irfan Khan Pathan,,Missing
+900,PJ Sangwan,Pradeep Jaibeer Sangwan,,Missing
+963,MN Samuels,Marlon Nathaniel Samuels,,Missing
+1035,LMP Simmons,Lendl Mark Platter Simmons,,Missing
+1119,R Tewatia,Rahul Tewatia,https://www.espncricinfo.com/cricketers/rahul-tewatia-423838,Profile/Page URL
+1120,MJ Henry,Matthew James Henry,,Missing
+1233,SS Tiwary,Saurabh Sunil Tiwary,,Missing
+1242,R Vinay Kumar,Ranganath Vinay Kumar,,Missing
+1285,HV Patel,Harshal Vikram Patel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harshal%20Patel.png,Direct Image URL
+1286,Avesh Khan,Avesh Khan,https://www.espncricinfo.com/cricketers/avesh-khan-694211,Profile/Page URL
+1314,IR Jaggi,Ishank Rajiv Jaggi,,Missing
+1327,CJ Jordan,Christopher James Jordan,,Missing
+1377,E Lewis,Evin Lewis,,Missing
+1386,M Markande,Mayank Markande,https://www.espncricinfo.com/cricketers/mayank-markande-1081442,Profile/Page URL
+1393,DJ Bravo,Dwayne John Bravo,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dwayne%20Bravo.png,Direct Image URL
+1396,MA Wood,Mark Andrew Wood,,Missing
+1398,C Munro,Colin Munro,,Missing
+1409,KL Rahul,Kannaur Lokesh Rahul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KL%20Rahul.png,Direct Image URL
+1416,R Ashwin,Ravichandran Ashwin,https://www.espncricinfo.com/cricketers/ravichandran-ashwin-26421,Profile/Page URL
+1419,Mujeeb Ur Rahman,Mujeeb Ur Rahman,,Missing
+1421,Q de Kock,Quinton de Kock,,Missing
+1424,SN Khan,Sarfaraz Naushad Khan,,Missing
+1429,K Khejroliya,Kulwant Khejroliya,https://www.espncricinfo.com/cricketers/kulwant-khejroliya-1083033,Profile/Page URL
+1436,RK Singh,Rinku Khanchand Singh,,Missing
+1437,AD Russell,Andre Dwayne Russell,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andre%20Russell.png,Direct Image URL
+1443,DJM Short,D'Arcy John Matthew Short,,Missing
+1448,K Gowtham,Krishnappa Gowtham,,Missing
+1449,S Gopal,Shreyas Gopal,https://www.espncricinfo.com/cricketers/shreyas-gopal-344580,Profile/Page URL
+1452,B Laughlin,Ben Laughlin,,Missing
+1471,TK Curran,Thomas Kevin Curran,,Missing
+1559,A Dananjaya,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,,Missing
+1580,Shubman Gill,Shubman Gill,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shubman%20Gill.png,Direct Image URL
+1581,Shivam Mavi,Shivam Pankaj Mavi,,Missing
+1630,M Vijay,Murali Vijay,,Missing
+1740,H Klaasen,Heinrich Klaasen,https://www.espncricinfo.com/cricketers/heinrich-klaasen-436757,Profile/Page URL
+1805,RK Bhui,Ricky Kannakumar Bhui,,Missing
+1833,JC Archer,Jofra Chioke Archer,,Missing
+1849,PP Shaw,Prithvi Pankaj Shaw,,Missing
+1856,LE Plunkett,Liam Edward Plunkett,,Missing
+1964,JP Duminy,Jean-Paul Duminy,,Missing
+1970,AD Hales,Alexander Daniel Hales,,Missing
+1986,MK Lomror,Mahipal Krishan Lomror,,Missing
+1990,IS Sodhi,Inderbir Singh Sodhi,,Missing
+1998,M Ashwin,Murugan Ashwin,,Missing
+2023,KM Asif,KM Asif,,Missing
+2024,L Ngidi,Lungisani True-man Ngidi,,Missing
+2138,DR Shorey,Dhruv Ranjan Shorey,,Missing
+2142,DJ Willey,David Jonathan Willey,,Missing
+2188,M Prasidh Krishna,Muralikrishna Prasidh Krishna,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Prasidh%20Krishna.png,Direct Image URL
+2227,MM Ali,Moeen Munir Ali,,Missing
+2295,SP Goswami,Shreevats Pratyush Goswami,,Missing
+2315,P Chopra,Prashant Chopra,,Missing
+2329,JPR Scantlebury-Searles,Javon Philip Ramon Scantlebury-Searles,,Missing
+2349,Abhishek Sharma,Abhishek Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abhishek%20Sharma.png,Direct Image URL
+2352,S Lamichhane,Sandeep Lamichhane,,Missing
+2353,CJ Dala,Carl Junior Dala,,Missing
+2662,KK Ahmed,Khaleel Khursheed Ahmed,,Missing
+2700,SO Hetmyer,Shimron Odilon Hetmyer,,Missing
+2701,S Dube,Shivam Dube,https://www.espncricinfo.com/cricketers/shivam-dube-714451,Profile/Page URL
+2703,Navdeep Saini,Navdeep Saini,,Missing
+2719,JM Bairstow,Jonathan Marc Bairstow,,Missing
+2743,CA Ingram,Colin Alexander Ingram,,Missing
+2745,KMA Paul,Keemo Mandela Angus Paul,,Missing
+2760,Rasikh Salam,Rasikh Salam Dar,,Missing
+2766,N Pooran,Nicholas Pooran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Nicholas%20Pooran.png,Direct Image URL
+2768,SM Curran,Samuel Matthew Curran,,Missing
+2824,GC Viljoen,GC Viljoen,,Missing
+2825,CV Varun,Varun Chakravarthy Vinod,,Missing
+2894,NS Naik,Nikhil Shankar Naik,,Missing
+2910,GH Vihari,Gade Hanuma Vihari,,Missing
+2934,P Ray Barman,Prayas Ray Barman,,Missing
+2947,MJ Santner,Mitchell Josef Santner,,Missing
+3011,JP Behrendorff,Jason Paul Behrendorff,,Missing
+3076,SC Kuggeleijn,Scott Christopher Kuggeleijn,,Missing
+3100,AS Joseph,Alzarri Shaheim Joseph,,Missing
+3145,S Midhun,Sudhesan Midhun,,Missing
+3156,HF Gurney,Harry Frederick Gurney,,Missing
+3214,SD Lad,Siddhesh Dinesh Lad,,Missing
+3230,R Parag,Riyan Parag,https://www.espncricinfo.com/cricketers/riyan-parag-1079434,Profile/Page URL
+3246,JL Denly,Joseph Liam Denly,,Missing
+3284,LS Livingstone,Liam Stephen Livingstone,,Missing
+3388,Arshdeep Singh,Arshdeep Singh,https://www.espncricinfo.com/cricketers/arshdeep-singh-1125976,Profile/Page URL
+3393,AJ Turner,Ashton James Turner,,Missing
+3451,DW Steyn,Dale Willem Steyn,,Missing
+3495,Harpreet Brar,Harpreet Brar,https://www.espncricinfo.com/cricketers/harpreet-brar-1168641,Profile/Page URL
+3505,SE Rutherford,Sherfane Eviston Rutherford,,Missing
+3518,Y Prithvi Raj,Prithvi Raj Yarra,,Missing
+3641,O Thomas,Oshane Romaine Thomas,,Missing
+3649,AS Roy,Anukul Sudhakar Roy,,Missing
+3718,S Sandeep Warrier,Sankarankutty Sandeep Warrier,,Missing
+3747,P Simran Singh,Prabhsimran Singh,https://www.espncricinfo.com/cricketers/prabhsimran-singh-1161024,Profile/Page URL
+3793,J Suchith,Jagadeesha Suchith,,Missing
+4023,JL Pattinson,James Lee Pattinson,,Missing
+4047,A Nortje,Anrich Arno Nortje,,Missing
+4058,SS Cottrell,Sheldon Shane Cottrell,,Missing
+4059,Ravi Bishnoi,Ravi Bishnoi,https://www.espncricinfo.com/cricketers/ravi-bishnoi-1175441,Profile/Page URL
+4063,T Banton,Tom Banton,,Missing
+4071,D Padikkal,Devdutt Padikkal,https://www.espncricinfo.com/cricketers/devdutt-padikkal-1119026,Profile/Page URL
+4078,I Udana,Isuru Udana Tillakaratna,,Missing
+4097,PK Garg,Priyam K Garg,,Missing
+4098,JO Holder,Jason Omar Holder,,Missing
+4099,Abdul Samad,Abdul Samad Farooq,https://www.espncricinfo.com/cricketers/abdul-samad-1175485,Profile/Page URL
+4104,YBK Jaiswal,Yashasvi Bhupendra Kumar Jaiswal,,Missing
+4119,RD Gaikwad,Ruturaj Dashrat Gaikwad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ruturaj%20Gaikwad.png,Direct Image URL
+4134,KL Nagarkoti,Kamlesh Lachham Nagarkoti,,Missing
+4146,TU Deshpande,Tushar Uday Deshpande,,Missing
+4170,JR Philippe,Joshua Ryan Philippe,,Missing
+4212,Kartik Tyagi,Kartik Tyagi,,Missing
+4274,JDS Neesham,James Douglas Sheahan Neesham,,Missing
+4310,Shahbaz Ahmed,Shahbaz Ahmed,,Missing
+4320,DR Sams,Daniel Richard Sams,,Missing
+4339,N Jagadeesan,Narayan Jagadeesan,,Missing
+4406,AT Carey,Alex Tyson Carey,,Missing
+4664,JR Hazlewood,Josh Reginald Hazlewood,,Missing
+4771,CJ Green,Christopher James Green,,Missing
+4960,MR Marsh,Mitchell Ross Marsh,,Missing
+4970,P Dubey,Praveen Dubey,,Missing
+5181,Monu Kumar,Monu Kumar Singh,,Missing
+5343,M Jansen,Marco Jansen,https://www.espncricinfo.com/cricketers/marco-jansen-696401,Profile/Page URL
+5349,RM Patidar,Rajat Manohar Patidar,,Missing
+5354,KA Jamieson,Kyle Alex Jamieson,,Missing
+5407,M Shahrukh Khan,Masood Shahrukh Khan,,Missing
+5408,JA Richardson,Jhye Avon Richardson,,Missing
+5411,RP Meredith,Riley Patrick Meredith,,Missing
+5422,C Sakariya,Chetan Sakariya,https://www.espncricinfo.com/cricketers/chetan-sakariya-1131754,Profile/Page URL
+5473,Lalit Yadav,Lalit Yadav,,Missing
+5526,Virat Singh,Virat Binod Singh,,Missing
+5562,Jalaj S Saxena,Jalaj Sahai Saxena,,Missing
+5573,LI Meriwala,Lukman Iqbal Meriwala,,Missing
+5629,FA Allen,Fabian Anthony Allen,,Missing
+5686,KW Richardson,Kane William Richardson,,Missing
+5935,Anuj Rawat,Anuj Rawat,https://www.espncricinfo.com/cricketers/anuj-rawat-1123073,Profile/Page URL
+5955,DJ Malan,Dawid Johannes Malan,,Missing
+5976,KS Bharat,Kona Srikar Bharat,,Missing
+5980,PWH de Silva,Pinnaduwage Wanindu Hasaranga de Silva,,Missing
+5986,VR Iyer,Venkatesh Rajasekaran Iyer,,Missing
+6017,Umran Malik,Umran Malik,,Missing
+6033,GD Phillips,Glenn Dominic Phillips,,Missing
+6036,Akash Singh,Akash Maharaj Singh,,Missing
+6047,GHS Garton,George Henry Simmons Garton,,Missing
+6054,AK Markram,Aiden Kyle Markram,,Missing
+6115,K Yadav,Kuldip Yadav,,Missing
+6212,T Shamsi,Tabraiz Shamsi,,Missing
+6245,NT Ellis,Nathan Ellis,https://www.espncricinfo.com/cricketers/nathan-ellis-826915,Profile/Page URL
+6287,RV Patel,Ripal Vinubhai Patel,,Missing
+6310,TL Seifert,Tim Louis Seifert,,Missing
+6360,Anmolpreet Singh,Anmolpreet Singh,,Missing
+6519,IC Porel,Ishan Chandranath Porel,,Missing
+6520,AU Rashid,Adil Usman Rashid,,Missing
+6550,TH David,Timothy Hays David,,Missing
+6657,DP Conway,Devon Philip Conway,,Missing
+6681,Tilak Varma,Namboori Thakur Tilak Varma,,Missing
+6694,R Powell,Rovman Powell,https://www.espncricinfo.com/cricketers/rovman-powell-820351,Profile/Page URL
+6710,Akash Deep,Akash Deep,https://www.espncricinfo.com/cricketers/akash-deep-1176959,Profile/Page URL
+6713,PBB Rajapaksa,Pramod Bhanuka Bandara Rajapaksa,,Missing
+6715,RA Bawa,RajÂ AngadÂ Bawa,,Missing
+6717,OF Smith,Odean Fabian Smith,,Missing
+6727,A Badoni,Ayush Badoni,https://www.espncricinfo.com/cricketers/ayush-badoni-1151270,Profile/Page URL
+6729,PVD Chameera,Pathira Vasan Dushmantha Chameera,,Missing
+6730,Mohsin Khan,Mohsin Khan,,Missing
+6734,MS Wade,Matthew Scott Wade,,Missing
+6739,A Manohar,Abhinav Manohar,https://www.espncricinfo.com/cricketers/abhinav-manohar-778963,Profile/Page URL
+6761,R Shepherd,Romario Shepherd,https://www.espncricinfo.com/cricketers/romario-shepherd-677077,Profile/Page URL
+6795,D Pretorius,Dwaine Pretorius,,Missing
+6798,Mukesh Choudhary,Mukesh Choudhary,https://www.espncricinfo.com/cricketers/mukesh-choudhary-1125688,Profile/Page URL
+6880,JM Sharma,Jitesh Mohan Sharma,,Missing
+6885,VG Arora,Vaibhav Gopal Arora,,Missing
+6944,D Brevis,Dewald Brevis,,Missing
+6999,B Sai Sudharsan,Bhardwaj Sai Sudharsan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sai%20Sudharsan.png,Direct Image URL
+7005,DG Nalkande,Darshan Girish Nalkande,,Missing
+7017,M Theekshana,Morawakage Maheesh Theekshana,,Missing
+7024,Shashank Singh,Shashank Singh,https://www.espncricinfo.com/cricketers/shashank-singh-377534,Profile/Page URL
+7036,Ramandeep Singh,Ramandeep Singh,https://www.espncricinfo.com/cricketers/ramandeep-singh-1079470,Profile/Page URL
+7077,HE van der Dussen,Hendrik Erasmus van der Dussen,,Missing
+7083,KR Sen,Kuldeep Rampal Sen,,Missing
+7134,SS Prabhudessai,Suyash S Prabhudessai,,Missing
+7172,Yash Dayal,Yash Dayal,https://www.espncricinfo.com/cricketers/yash-dayal-1159720,Profile/Page URL
+7192,Aman Hakim Khan,Aman Hakim Khan,,Missing
+7302,OC McCoy,Obed  Christopher McCoy,,Missing
+7365,HR Shokeen,Hrithik Rakesh Shokeen,,Missing
+7476,R Dhawan,Rishi Dhawan,,Missing
+7496,DJ Mitchell,Daryl Joseph Mitchell,,Missing
+7539,B Indrajith,Baba Indrajith,,Missing
+7546,Harshit Rana,Harshit Pradeep Rana,,Missing
+7621,K Kartikeya,Kumar Kartikeya Singh,,Missing
+7652,Simarjeet Singh,Simarjeet Singh,https://www.espncricinfo.com/cricketers/simarjeet-singh-1159722,Profile/Page URL
+7751,SA Abbott,Sean Anthony Abbott,,Missing
+7843,Fazalhaq Farooqi,Fazalhaq Farooqi,https://www.espncricinfo.com/cricketers/fazalhaq-farooqi-974175,Profile/Page URL
+7895,R Sai Kishore,Ravisrinivasan Sai Kishore,,Missing
+7902,KS Sharma,Karan Sunny Sharma,,Missing
+7947,T Stubbs,Tristan Stubbs,https://www.espncricinfo.com/cricketers/tristan-stubbs-595978,Profile/Page URL
+8005,PH Solanki,Prashant Hitesh Solanki,,Missing
+8007,M Pathirana,Matheesha Pathirana,https://www.espncricinfo.com/cricketers/matheesha-pathirana-1194795,Profile/Page URL
+8082,R Sanjay Yadav,Ramsingh  Sanjay Yadav,,Missing
+8098,A Tomar,Abhijeet Tomar,,Missing
+8191,PN Mankad,Prerak Nileshkumar Mankad,,Missing
+8295,RS Hangargekar,Rajvardhan S Hangargekar,,Missing
+8305,J Little,Joshua Brian Little,,Missing
+8312,Sikandar Raza,Sikandar Raza Butt,,Missing
+8321,Rahmanullah Gurbaz,Rahmanullah Gurbaz,https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087,Profile/Page URL
+8333,KR Mayers,Kyle Rico Mayers,,Missing
+8349,RR Rossouw,Rilee Roscoe Rossouw,,Missing
+8355,Mukesh Kumar,Mukesh Kumar,https://www.espncricinfo.com/cricketers/mukesh-kumar-926851,Profile/Page URL
+8356,NA Saini,Navdeep Amarjeet Saini,,Missing
+8372,HC Brook,Harry Cherrington Brook,,Missing
+8383,C Green,Cameron Donald Green,,Missing
+8386,N Wadhera,Nehal Wadhera,https://www.espncricinfo.com/cricketers/nehal-wadhera-1151273,Profile/Page URL
+8389,Arshad Khan,Arshad Khan,,Missing
+8396,MG Bracewell,Michael Gordon Bracewell,,Missing
+8400,RJW Topley,Reece James William Topley,,Missing
+8425,Yash Thakur,Yash Ravisingh Thakur,,Missing
+8433,Abishek Porel,Abishek Porel,https://www.espncricinfo.com/cricketers/abishek-porel-1277545,Profile/Page URL
+8470,Dhruv Jurel,Dhruv Chand Jurel,,Missing
+8475,Suyash Sharma,Suyash Sharma,https://www.espncricinfo.com/cricketers/suyash-sharma-1350792,Profile/Page URL
+8569,SSB Magala,Sisanda Somila Bruce Magala,,Missing
+8597,MW Short,Matthew William Short,,Missing
+8605,Mohit Rathee,Mohit Rathee,https://www.espncricinfo.com/cricketers/mohit-rathee-1349361,Profile/Page URL
+8626,WD Parnell,Wayne Dillon Parnell,,Missing
+8646,YV Dhull,Yash Vijay Dhull,,Missing
+8748,Vijaykumar Vyshak,Vijaykumar Vyshak,,Missing
+8769,Yudhvir Singh,Yudhvir Singh Charak,,Missing
+8773,Atharva Taide,Atharva Taide,https://www.espncricinfo.com/cricketers/atharva-taide-1125958,Profile/Page URL
+8776,Harpreet Singh,Harpreet Singh Bhatia,,Missing
+8805,Arjun Tendulkar,Arjun Sachin Tendulkar,,Missing
+8808,D Jansen,Duan Jansen,,Missing
+8809,Noor Ahmad,Noor Ahmad Lakanwal,https://www.espncricinfo.com/cricketers/noor-ahmad-1182529,Profile/Page URL
+8890,Naveen-ul-Haq,Naveen-ul-Haq Murid,,Missing
+8930,Liton Das,Litton Kumer Das,,Missing
+8945,PD Salt,Philip Dean Salt,,Missing
+8953,Mayank Dagar,Mayank J Dagar,,Missing
+9044,Abdul Basith,Pappanayil Abdul Basith,,Missing
+9069,D Wiese,David Wiese,,Missing
+9181,Gurnoor Brar,Gurnoor Brar,,Missing
+9225,AJ Hosein,Akeal Jerome Hosein,,Missing
+9371,Akash Madhwal,Akash Madhwal,https://www.espncricinfo.com/cricketers/akash-madhwal-1206039,Profile/Page URL
+9431,R Goyal,Raghav Goyal,,Missing
+9508,JE Root,Joseph Edward Root,,Missing
+9524,Vivrant Sharma,Vivrant Sharma,,Missing
+9748,MD Shanaka,Madagamagamage Dasun Shanaka,,Missing
+9759,Sanvir Singh,Sanvir Singh,,Missing
+9824,Nithish Kumar Reddy,Kaki Nitish Kumar Reddy,,Missing
+9931,H Sharma,Himanshu Sharma,,Missing
+10065,R Ravindra,Rachin Ravindra,https://www.espncricinfo.com/cricketers/rachin-ravindra-959767,Profile/Page URL
+10070,Sameer Rizvi,Sameer Rizvi,https://www.espncricinfo.com/cricketers/sameer-rizvi-1175489,Profile/Page URL
+10078,SD Hope,Shai Diego Hope,,Missing
+10083,Sumit Kumar,Sumit Kumar,,Missing
+10109,MA Starc,Mitchell Aaron Starc,,Missing
+10135,N Burger,Nandre Burger,,Missing
+10152,Azmatullah Omarzai,Azmatullah Omarzai,https://www.espncricinfo.com/cricketers/azmatullah-omarzai-819429,Profile/Page URL
+10159,SH Johnson,Spencer Johnson,https://www.espncricinfo.com/cricketers/spencer-johnson-1123718,Profile/Page URL
+10160,L Wood,Luke Wood,,Missing
+10163,Naman Dhir,Naman Dhir,https://www.espncricinfo.com/cricketers/naman-dhir-1287032,Profile/Page URL
+10168,G Coetzee,Gerald Coetzee,https://www.espncricinfo.com/cricketers/gerald-coetzee-596010,Profile/Page URL
+10169,SZ Mulani,Shams Mulani,,Missing
+10232,KT Maphaka,Kwena Maphaka,https://www.espncricinfo.com/cricketers/kwena-maphaka-1294342,Profile/Page URL
+10291,A Raghuvanshi,Angkrish Raghuvanshi,https://www.espncricinfo.com/cricketers/angkrish-raghuvanshi-1292495,Profile/Page URL
+10302,MP Yadav,Mayank Yadav,https://www.espncricinfo.com/cricketers/mayank-yadav-1292563,Profile/Page URL
+10303,M Siddharth,Manimaran Siddharth,,Missing
+10382,SB Dubey,Shubham Badriprasad Dubey,,Missing
+10456,Ashutosh Sharma,Ashutosh Sharma,https://www.espncricinfo.com/cricketers/ashutosh-sharma-1131978,Profile/Page URL
+10488,Saurav Chauhan,Saurav Chauhan,,Missing
+10528,Kumar Kushagra,Kumar Kushagra,https://www.espncricinfo.com/cricketers/kumar-kushagra-1207295,Profile/Page URL
+10548,BR Sharath,Belur Ravi Sharath,,Missing
+10604,KA Maharaj,Keshav Athmanand Maharaj,,Missing
+10630,WG Jacks,William George Jacks,,Missing
+10667,J Fraser-McGurk,Jake Fraser-McGurk,,Missing
+10690,Tanush Kotian,Tanush Kotian,,Missing
+10707,Arshad Khan (2),Mohd Arshad Khan,,Missing
+10710,S Joseph,Shamar Joseph,https://www.espncricinfo.com/cricketers/shamar-joseph-1356971,Profile/Page URL
+10939,N Thushara,Nuwan Thushara,https://www.espncricinfo.com/cricketers/nuwan-thushara-955235,Profile/Page URL
+11068,LB Williams,Lizaad Buyron Williams,,Missing
+11192,AA Kulkarni,Arshin Kulkarni,https://www.espncricinfo.com/cricketers/arshin-kulkarni-1403153,Profile/Page URL
+11212,RJ Gleeson,Richard Gleeson,,Missing
+11282,MJ Suthar,Manav Suthar,https://www.espncricinfo.com/cricketers/manav-suthar-1175426,Profile/Page URL
+11366,A Kamboj,Anshul Kamboj,https://www.espncricinfo.com/cricketers/anshul-kamboj-1175428,Profile/Page URL
+11376,Gulbadin Naib,Gulbadin Naib,,Missing
+11389,D Ferreira,Donovan Ferreira,https://www.espncricinfo.com/cricketers/donovan-ferreira-698315,Profile/Page URL
+11416,V Viyaskanth,Vijayakanth Viyaskanth,,Missing
+11429,V Kaverappa,Vidhwath Kaverappa,,Missing
+11562,T Kohler-Cadmore,Tom Kohler-Cadmore,,Missing
+11640,Shivam Singh,Shivam Singh,,Missing
+11781,Aniket Verma,Aniket Verma,https://www.espncricinfo.com/cricketers/aniket-verma-1409976,Profile/Page URL
+11799,V Puthur,Vignesh Puthur,https://www.espncricinfo.com/cricketers/vignesh-puthur-1460388,Profile/Page URL
+11801,RD Rickelton,Ryan Rickelton,https://www.espncricinfo.com/cricketers/ryan-rickelton-605661,Profile/Page URL
+11805,R Minz,Robin Minz,https://www.espncricinfo.com/cricketers/robin-minz-1350762,Profile/Page URL
+11810,PVSN Raju,Penumatsa Venkata Satyanarayana Raju,,Missing
+11833,DS Rathi,Digvesh Singh Rathi,https://www.espncricinfo.com/cricketers/digvesh-rathi-1460529,Profile/Page URL
+11834,Prince Yadav,Prince Yadav,https://www.espncricinfo.com/cricketers/prince-yadav-1350768,Profile/Page URL
+11843,V Nigam,Vipraj Nigam,https://www.espncricinfo.com/cricketers/vipraj-nigam-1449074,Profile/Page URL
+11847,Priyansh Arya,Priyansh Arya,https://www.espncricinfo.com/cricketers/priyansh-arya-1175456,Profile/Page URL
+11854,Suryansh Shedge,Suryansh Shedge,https://www.espncricinfo.com/cricketers/suryansh-shedge-1339698,Profile/Page URL
+11919,SC Ganguly,Sourav Chandidas Ganguly,,Missing
+11921,RT Ponting,Ricky Thomas Ponting,,Missing
+11922,DJ Hussey,David John Hussey,,Missing
+11923,Mohammad Hafeez,Mohammad Hafeez,,Missing
+11924,LR Shukla,Laxmi Ratan Shukla,,Missing
+11926,AB Agarkar,Ajit Bhalchandra Agarkar,,Missing
+11928,M Kartik,Murali Kartik,,Missing
+11930,R Dravid,Rahul Sharad Dravid,,Missing
+11931,W Jaffer,Wasim Jaffer,,Missing
+11933,JH Kallis,Jacques Henry Kallis,,Missing
+11934,CL White,Cameron Leon White,,Missing
+11935,MV Boucher,Mark Verdon Boucher,,Missing
+11936,B Akhil,Balachandra Akhil,,Missing
+11937,AA Noffke,Ashley Allan Noffke,,Missing
+11940,SB Joshi,Sunil Bandacharya Joshi,,Missing
+11942,ML Hayden,Matthew Lawrence Hayden,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319700/319706.png",Direct Image URL
+11943,MEK Hussey,Michael Edward Killeen Hussey,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319708.1.png",Direct Image URL
+11946,JDP Oram,Jacob David Philip Oram,,Missing
+11947,S Badrinath,Subramaniam Badrinath,,Missing
+11948,Joginder Sharma,Joginder Sharma,,Missing
+11949,P Amarnath,Palani Amarnath,,Missing
+11951,M Muralitharan,Muthiah Muralidaran,,Missing
+11952,K Goel,Karan Goel,,Missing
+11953,JR Hopes,James Redfern Hopes,,Missing
+11954,KC Sangakkara,Kumar Chokshanada Sangakkara,,Missing
+11956,SM Katich,Simon Mathew Katich,,Missing
+11958,P Dharmani,Pankaj Dharmani,,Missing
+11959,B Lee,Brett Lee,,Missing
+11961,WA Mota,Wilkin Arvind Mota,,Missing
+11962,S Sreesanth,Shanthakumaran Sreesanth,,Missing
+11963,T Kohli,Taruwar Sushil Kohli,,Missing
+11966,M Kaif,Mohammad Kaif,,Missing
+11967,DS Lehmann,Darren Scott Lehmann,,Missing
+11969,M Rawat,Mahesh Rawat,,Missing
+11970,D Salunkhe,Dinesh Salunkhe,,Missing
+11971,SK Warne,Shane Keith Warne,,Missing
+11972,SK Trivedi,Siddharth Kishorkumar Trivedi,,Missing
+11975,V Sehwag,Virender Sehwag,,Missing
+11980,M Manhas,Mithun Manhas,,Missing
+11981,DL Vettori,Daniel Luca Vettori,,Missing
+11982,MF Maharoof,Mohamed Farveez Maharoof,,Missing
+11983,B Geeves,Brett Geeves,,Missing
+11984,GD McGrath,Glenn Donald McGrath,,Missing
+11985,L Ronchi,Luke Ronchi,,Missing
+11986,ST Jayasuriya,Sanath Teran Jayasuriya,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319800/319886.png",Direct Image URL
+11987,DJ Thornely,Dominic John Thornely,,Missing
+11989,PR Shah,Pinal Rohitbhai Shah,,Missing
+11990,AM Nayar,Abhishek Mohan Nayar,,Missing
+11991,SM Pollock,Shaun Maclean Pollock,,Missing
+11993,MA Khote,Musavir Asmat Khote,,Missing
+11996,S Chanderpaul,Shivnarine Chanderpaul,,Missing
+11998,LRPL Taylor,Luteru Ross Poutoa Lote Taylor,,Missing
+12007,AC Gilchrist,Adam Craig Gilchrist,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319600/319684.png",Direct Image URL
+12008,Y Venugopal Rao,Yalaka Venugopal Rao,,Missing
+12009,VVS Laxman,Vangipurappu Venkata Sai Laxman,,Missing
+12010,A Symonds,Andrew Symonds,,Missing
+12012,SB Styris,Scott Bernard Styris,,Missing
+12013,AS Yadav,Arjun Shivlal Yadav,,Missing
+12014,SB Bangar,Sanjay Bapusaheb Bangar,,Missing
+12015,WPUJC Vaas,Warnakulasuriya Patabendige Ushantha Joseph Chaminda Vaas,,Missing
+12016,RP Singh,Rudra Pratap Singh,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/389100/389167.5.png",Direct Image URL
+12017,PP Ojha,Pragyan Prayash Ojha,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/322600/322694.1.png",Direct Image URL
+12032,DPMD Jayawardene,Denagamage Proboth Mahela de Silva Jayawardene,,Missing
+12035,S Sohal,Sunny Sohal,,Missing
+12041,Kamran Akmal,Kamran Akmal,,Missing
+12046,Pankaj Singh,Pankaj Singh,,Missing
+12056,Shahid Afridi,Sahibzada Mohammad Shahid Khan Afridi,,Missing
+12065,Shoaib Malik,Shoaib Malik,,Missing
+12070,Mohammad Asif,Mohammad Asif,,Missing
+12071,VY Mahesh,Vijaykumar Yo Mahesh,,Missing
+12093,VS Yeligati,Vikrant Shyam Yeligati,,Missing
+12105,D Kalyankrishna,Doddapaneni Kalyankrishna,,Missing
+12107,GC Smith,Graeme Craig Smith,,Missing
+12121,RR Sarwan,Ramnaresh Ronnie Sarwan,,Missing
+12127,VRV Singh,Vikram Raj Vir Singh,,Missing
+12147,Sohail Tanvir,Sohail Tanvir,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/320400/320472.1.png",Direct Image URL
+12160,A Kumble,Anil Kumble,,Missing
+12193,DNT Zoysa,Demuni Nuwan Tharanga Zoysa,,Missing
+12204,SD Chitnis,Siddharth Dilip Chitnis,,Missing
+12221,TM Srivastava,Tanmay Manoj Srivastava,,Missing
+12234,JA Morkel,Johannes Albertus Morkel,,Missing
+12238,B Chipli,Bharat Chipli,,Missing
+12252,DB Das,Debabrata Baidya Das,,Missing
+12269,CRD Fernando,Congenige Randhi Dilhara Fernando,,Missing
+12295,HH Gibbs,Herschelle Herman Gibbs,,Missing
+12314,Gagandeep Singh,Gagandeep Singh,,Missing
+12315,Salman Butt,Salman Butt,,Missing
+12318,BJ Hodge,Bradley John Hodge,,Missing
+12323,Umar Gul,Umar Gul,,Missing
+12327,SA Asnodkar,Swapnil Ashok Asnodkar,,Missing
+12338,SP Fleming,Stephen Paul Fleming,,Missing
+12339,S Vidyut,Vidyut Sivaramakrishnan,,Missing
+12345,M Ntini,Makhaya Ntini,,Missing
+12362,LPC Silva,Lindamlilage Prageeth Chamara Silva,,Missing
+12364,DB Ravi Teja,Dwaraka Bhamidipati Ravi Teja,,Missing
+12369,DP Vijaykumar,David Paidikalva Vijaykumar,,Missing
+12372,Misbah-ul-Haq,Misbah-ul-Haq Khan Niazi,,Missing
+12414,YV Takawale,Yogesh Vijay Takawale,,Missing
+12422,RR Raje,Rohan Ravindra Raje,,Missing
+12454,U Kaul,Uday Kaul,,Missing
+12465,DT Patil,Devraj Thyagaraj Patil,,Missing
+12471,S Anirudha,Srikkanth Anirudha,,Missing
+12518,CK Kapugedera,Chamara Kantha Kapugedera,,Missing
+12523,L Balaji,Lakshmipathy Balaji,,Missing
+12535,A Chopra,Aakash Chopra,,Missing
+12539,T Taibu,Tatenda Taibu,,Missing
+12546,J Arunkumar,Jagadeesh Arunkumar,,Missing
+12572,NK Patel,Niraj Kanubhai Patel,,Missing
+12580,SR Tendulkar,Sachin Ramesh Tendulkar,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316486.6.png",Direct Image URL
+12650,TM Dilshan,Tillakaratne Mudiyanselage Dilshan,,Missing
+12661,AD Mascarenhas,Adrian Dimitri Mascarenhas,,Missing
+12669,LA Pomersbach,Luke Anthony Pomersbach,,Missing
+12710,Shoaib Akhtar,Shoaib Akhtar,,Missing
+12738,RR Powar,Ramesh Rajaram Powar,,Missing
+12746,Younis Khan,Mohammad Younis Khan,,Missing
+12765,PM Sarvesh Kumar,PM Sarvesh Kumar,,Missing
+12795,RV Pawar,Rajesh Vithal Pawar,,Missing
+12842,Abdur Razzak,Abdur Razzak,,Missing
+12850,H Das,Halhadar Das,,Missing
+13016,A Nel,Andre Nel,,Missing
+13026,A Mukund,Abhinav Mukund,,Missing
+13083,BAW Mendis,Balapuwaduge Ajantha Winslow Mendis,,Missing
+13198,A Flintoff,Andrew Flintoff,,Missing
+13203,T Thushara,Magina Thilan Thushara Mirando,,Missing
+13220,T Henderson,Tyron Henderson,,Missing
+13227,Kamran Khan,Kamran Khan,,Missing
+13228,JD Ryder,Jesse Daniel Ryder,,Missing
+13231,KP Pietersen,Kevin Peter Pietersen,,Missing
+13245,DP Nannes,Dirk Peter Nannes,,Missing
+13248,AM Salvi,Aavishkar Madhav Salvi,,Missing
+13250,RS Bopara,Ravinder Singh Bopara,,Missing
+13258,VS Malik,Vikramjeet Singh Malik,,Missing
+13260,YA Abdulla,Yusuf Adam Abdulla,,Missing
+13267,Harmeet Singh,Harmeet Singh Bansal,,Missing
+13271,FH Edwards,Fidel Henderson Edwards,,Missing
+13301,R Bishnoi,Rajesh Bishnoi,,Missing
+13320,Yashpal Singh,Yashpal Singh,,Missing
+13383,PC Valthaty,Paul Chandrashekar Valthaty,,Missing
+13384,RJ Quiney,Robert John Quiney,,Missing
+13388,AS Raut,Abhishek Santosh Raut,,Missing
+13402,RR Bose,Ranadeb Ranjit Bose,,Missing
+13458,KP Appanna,Kotarangada Prabhu Appanna,,Missing
+13497,AA Bilakhia,Azharuddin Anjum Bilakhia,,Missing
+13502,Shoaib Ahmed,Syed Mohammad Shoaib Ahmed,,Missing
+13508,AN Ghosh,Arindam Nanigopal Ghosh,,Missing
+13551,MN van Wyk,Morne Nico van Wyk,,Missing
+13563,RE van der Merwe,Roelof Erasmus van der Merwe,,Missing
+13595,TL Suman,Tirumalasetti Laxminarayana Suman,,Missing
+13620,S Tyagi,Sudeep Tyagi,,Missing
+13651,GR Napier,Graham Richard Napier,,Missing
+13692,LA Carseldine,Lee Andrew Carseldine,,Missing
+13698,SM Harwood,Shane Michael Harwood,,Missing
+13763,D du Preez,Dillon du Preez,,Missing
+13785,RJ Harris,Ryan James Harris,,Missing
+13810,A Singh,Amit Singh,,Missing
+13863,M Morkel,Morne Morkel,https://scores.iplt20.com/ipl/images/default-player-statsImage.png,Direct Image URL
+13882,GJ Bailey,George John Bailey,,Missing
+13973,C Nanda,Chetanya Nanda,,Missing
+13986,A Mithun,Abhimanyu Mithun,,Missing
+14008,SS Sarkar,Sourav Subrata Sarkar,,Missing
+14136,J Botha,Johan Botha,,Missing
+14201,Mashrafe Mortaza,Mashrafe Bin Mortaza,,Missing
+14206,SS Shaikh,Shoaib Shabbir Shaikh,,Missing
+14216,Jaskaran Singh,Jaskaran Singh Buttar,,Missing
+14278,AB McDonald,Andrew Barry McDonald,,Missing
+14279,Y Nagar,Yogesh Nagar,,Missing
+14303,CK Langeveldt,Charl Kenneth Langeveldt,,Missing
+14353,Mohammad Ashraful,Mohammad Ashraful,,Missing
+14360,RA Shaikh,Rahil Akhil Ahmed Shaikh,,Missing
+14454,Anirudh Singh,Anirudh Singh,,Missing
+14463,CA Pujara,Cheteshwar Arvind Pujara,,Missing
+14464,OA Shah,Owais Alam Shah,,Missing
+14476,R Sathish,Rajagopal Sathish,,Missing
+14478,R McLaren,Ryan McLaren,,Missing
+14481,AG Murtaza,Ali Ghulam Murtaza,,Missing
+14485,AA Jhunjhunwala,Abhishek Arunkumar Jhunjhunwala,,Missing
+14487,P Dogra,Paras Dogra,,Missing
+14489,A Uniyal,Amit Uniyal,,Missing
+14492,SW Tait,Shaun William Tait,,Missing
+14505,MS Bisla,Manvinder Sultansingh Bisla,,Missing
+14520,RS Gavaskar,Rohan Sunil Gavaskar,,Missing
+14541,JM Kemp,Justin Miles Kemp,,Missing
+14567,S Ladda,Sarabjit Ladda,,Missing
+14622,SE Bond,Shane Edward Bond,,Missing
+14648,MJ Lumb,Michael John Lumb,,Missing
+14649,DR Martyn,Damien Richard Martyn,,Missing
+14653,S Narwal,Sumit Narwal,,Missing
+14707,AB Barath,Adrian Boris Barath,,Missing
+14712,SJ Srivastava,Shalabh Jagdishprasad Srivastava,,Missing
+14726,FY Fazal,Faiz Yakub Fazal,,Missing
+14729,AC Voges,Adam Charles Voges,,Missing
+14757,MD Mishra,Mohnish Dinesh Mishra,,Missing
+14765,R Sharma,Rahul Sharma,,Missing
+14798,J Theron,Juan Theron,,Missing
+14873,NLTC Perera,Narangoda Liyanaarachchilage Thisara Chirantha Perera,,Missing
+14961,KB Arun Karthik,Konda Bhaskir Arun Karthik,,Missing
+14985,KAJ Roach,Kemar Andre Jamal Roach,,Missing
+15003,PD Collingwood,Paul David Collingwood,,Missing
+15049,C Ganapathy,Chandrasekar Ganapathy,,Missing
+15108,MB Parmar,Mohnish Bipinbhai Parmar,,Missing
+15140,DE Bollinger,Douglas Erwin Bollinger,,Missing
+15150,SB Wagh,Shrikant Bhaskar Wagh,,Missing
+15239,AP Dole,Aditya Pradip Dole,,Missing
+15261,AN Ahmed,Abu Nechim Ahmed,,Missing
+15334,RS Sodhi,Reetinder Singh Sodhi,,Missing
+15339,L Ablish,Love Ablish,,Missing
+15368,B Sumanth,Bodapati Apparao Sumanth,,Missing
+15384,S Sriram,Sridharan Sriram,,Missing
+15472,C Madan,Chandan Madan,,Missing
+15507,AG Paunikar,Amit Gajanan Paunikar,,Missing
+15745,ND Doshi,Nayan Dilip Doshi,,Missing
+15779,S Randiv,Hewa Kaluhalamullage Suraj Randiv Kaluhalamulla,,Missing
+15807,AL Menaria,Ashok Lakshminarayan Menaria,,Missing
+15818,RV Gomez,Raiphi Vincent Gomez,,Missing
+15829,AUK Pathan,Asad Ullah Khan Pathan,,Missing
+15837,UBT Chand,Unmukt Bharat Thakur Chand,,Missing
+15846,DJ Jacobs,David Johan Jacobs,,Missing
+15851,JEC Franklin,James Edward Charles Franklin,,Missing
+15862,Sunny Singh,Sunny Singh,,Missing
+15866,NJ Rimmington,Nathan John Rimmington,,Missing
+15867,BA Bhatt,Bhargav Ashok Bhatt,,Missing
+15878,AC Thomas,Alfonso Clive Thomas,,Missing
+15896,RN ten Doeschate,Ryan Neil ten Doeschate,,Missing
+16007,JJ van der Wath,Johannes Jacobus van der Wath,,Missing
+16009,R Ninan,Ryan Ninan,,Missing
+16199,TD Paine,Timothy David Paine,,Missing
+16249,DH Yagnik,Dishant Harendra Yagnik,,Missing
+16276,BJ Haddin,Bradley James Haddin,,Missing
+16296,J Syed Mohammad,Jamaluddin Syed Mohammad,,Missing
+16380,NL McCullum,Nathan Leslie McCullum,,Missing
+16382,JE Taylor,Jerome Everton Taylor,,Missing
+16414,KMDN Kulasekara,Kulasekara Mudiyanselage Dinesh Nuwan Kulasekara,,Missing
+16455,TR Birt,Travis Rodney Birt,,Missing
+16529,M Klinger,Michael Klinger,,Missing
+16648,P Parameswaran,Prasanth Parameswaran,,Missing
+16693,AC Blizzard,Aiden Craig Blizzard,,Missing
+16743,I Malhotra,Ishan Malhotra,,Missing
+16862,CJ Ferguson,Callum James Ferguson,,Missing
+16953,AA Kazi,Abrar Anjum Kazi,,Missing
+33919,Anand Rajan,Anand Rajan,,Missing
+33961,P Prasanth,Padmanabhan Prasanth,,Missing
+33963,Y Gnaneswara Rao,Yalaka Gnaneswara Rao,,Missing
+33972,AA Chavan,Ankeet Anil Chavan,,Missing
+34058,S Rana,Sachin Rana,,Missing
+34089,KH Devdhar,Kedar Hemant Devdhar,,Missing
+34126,SS Mundhe,Shrikant Shrihari Mundhe,,Missing
+34171,RW Price,Raymond William Price,,Missing
+34272,RE Levi,Richard Ernst Levi,,Missing
+34304,M de Lange,Marchant de Lange,,Missing
+34343,KK Cooper,Kevon Keston Cooper,,Missing
+34356,DAJ Bracewell,Douglas Andrew John Bracewell,,Missing
+34382,DJ Harris,Daniel Joseph Harris,,Missing
+34392,TP Sudhindra,Taduri Prakash Chandra Sudhindra,,Missing
+34522,GB Hogg,George Bradley Hogg,,Missing
+34530,RR Bhatkal,Raju Ravi Bhatkal,,Missing
+34554,P Awana,Parvinder Awana,,Missing
+34601,V Pratap Singh,Veer Pratap Singh,,Missing
+34697,CJ McKay,Clinton James McKay,,Missing
+34706,T Mishra,Tanmay Mishra,,Missing
+34774,A Ashish Reddy,Ammana Ashish Reddy,,Missing
+34811,N Saini,Nitin Saini,,Missing
+34817,Azhar Mahmood,Azhar Mahmood Sagar,,Missing
+34931,A Chandila,Ajit  Chandila,,Missing
+34959,LJ Wright,Luke James Wright,,Missing
+34983,RJ Peterson,Robin John Peterson,,Missing
+35030,R Shukla,Rahul Shukla,,Missing
+35146,BB Samantray,Biplab Bipin Samantray,,Missing
+35153,MJ Clarke,Michael John Clarke,,Missing
+35239,BW Hilfenhaus,Benjamin William Hilfenhaus,,Missing
+35322,PA Reddy,Produturi Akshath Reddy,,Missing
+35364,AP Majumdar,Anustup Prabir Majumdar,,Missing
+35459,K Upadhyay,Krishnakant Upadhyay,,Missing
+35864,Sunny Gupta,Sunny Gupta,,Missing
+35892,MC Juneja,Manprit Charanjit Juneja,,Missing
+35966,MDKJ Perera,Mathurage Don Kusal Janith Perera,,Missing
+36069,BMAJ Mendis,Balapuwaduge Manukulasuriya Amith Jeevan Mendis,,Missing
+36213,R Rampaul,Ravindranath Rampaul,,Missing
+36227,SMSM Senanayake,Senanayake Mudiyanselage Sachithra Madhushanka Senanayake,,Missing
+36311,BJ Rohrer,Ben James Rohrer,,Missing
+36536,IC Pandey,Ishwar Chand Pandey,,Missing
+36555,CM Gautam,Chidhambaram Muralidharen Gautam,,Missing
+36609,X Thalaivan Sargunam,Xavier Thalaivan Sargunam,,Missing
+36610,DJG Sammy,Daren Julius Garvey Sammy,,Missing
+36966,P Suyal,Pawan Shakland Suyal,,Missing
+36973,UA Birla,Udit Alok Birla,,Missing
+37031,PV Tambe,Pravin Vijay Tambe,,Missing
+37119,Parvez Rasool,Parvez Ghulam Rasool Zargar,,Missing
+37347,MG Neser,Michael Gertges Neser,,Missing
+37595,NJ Maddinson,Nicolas James Maddinson,,Missing
+37979,BR Dunk,Ben Robert Dunk,,Missing
+38229,Shivam Sharma,Shivam Sharma,,Missing
+38322,VH Zol,Vijay Hari Zol,,Missing
+38515,K Santokie,Krishmar Santokie,,Missing
+38548,BE Hendricks,Beuran Eric Hendricks,,Missing
+38647,JW Hastings,John Wayne Hastings,,Missing
+38691,Karanveer Singh,Karanveer Singh,,Missing
+38924,DJ Muthuswami,Domnic Joseph Muthuswami,,Missing
+39089,RG More,Ronit Gajanan More,,Missing
+39661,GS Sandhu,Gurinder Singh Sandhu,,Missing
+40242,P Sahu,Pardeep Sahu,,Missing
+40385,KJ Abbott,Kyle John Abbott,,Missing
+40725,PSP Handscomb,Peter Stephen Patrick Handscomb,,Missing
+40813,SM Boland,Scott Michael Boland,,Missing
+40895,UT Khawaja,Usman Tariq Khawaja,,Missing
+41020,F Behardien,Farhaan Behardien,,Missing
+41286,ER Dwivedi,Eklavya Rakesh Dwivedi,,Missing
+41723,PWA Mulder,Wiaan Mulder,https://www.espncricinfo.com/cricketers/wiaan-mulder-698189,Profile/Page URL
+41726,Zeeshan Ansari,Zeeshan Ansari,https://www.espncricinfo.com/cricketers/zeeshan-ansari-942371,Profile/Page URL
+41758,J Overton,Jamie Overton,https://www.espncricinfo.com/cricketers/jamie-overton-510530,Profile/Page URL
+41785,Ashwani Kumar,Ashwani Kumar,https://www.espncricinfo.com/cricketers/ashwani-kumar-1209126,Profile/Page URL
+41851,PHKD Mendis,Kamindu Mendis,https://www.espncricinfo.com/cricketers/kamindu-mendis-784373,Profile/Page URL
+42116,Himmat Singh,Himmat Singh,https://www.espncricinfo.com/cricketers/himmat-singh-805235,Profile/Page URL
+42133,E Malinga,Kiribathgala Kankanamalage Eshan Malinga Dharmasena,,Missing
+42206,SK Rasheed,Shaik Rasheed,https://www.espncricinfo.com/cricketers/shaik-rasheed-1292497,Profile/Page URL
+42220,JP Inglis,Joshua Patrick Inglis,,Missing
+42226,XC Bartlett,Xavier Colin Bartlett,,Missing
+42511,MS Bhandage,Manoj Shivaramsa Bhandage,,Missing
+42566,V Suryavanshi,Vaibhav Suryavanshi,https://www.espncricinfo.com/cricketers/vaibhav-suryavanshi-1408688,Profile/Page URL
+42603,A Mhatre,Ayush Mhatre,,Missing
+43253,C Bosch,Corbin Bosch,https://www.espncricinfo.com/cricketers/corbin-bosch-594322,Profile/Page URL
+43282,JG Bethell,Jacob Graham Bethell,,Missing
+43300,Karim Janat,Karim Janat,https://www.espncricinfo.com/cricketers/karim-janat-793467,Profile/Page URL
+43451,KS Rathore,Kunal Singh Rathore,,Missing
+43548,Urvil Patel,Urvil Mukesh Patel,,Missing
+43574,M Tiwari,Madhav Tiwari,https://www.espncricinfo.com/cricketers/madhav-tiwari-1460385,Profile/Page URL
+43582,MJ Owen,Mitchell J Owen,,Missing
+43638,W O'Rourke,William Peter O'Rourke,,Missing
+43649,Harsh Dubey,Harsh Surendra Dubey,,Missing
+43820,MP Breetzke,Matthew Paul Breetzke,,Missing
+43849,Musheer Khan,Musheer Khan,https://www.espncricinfo.com/cricketers/musheer-khan-1316430,Profile/Page URL
+43881,BKG Mendis,Kusal Mendis,,Missing
+43954,Sediqullah Atal,Sediqullah Atal,,Missing
